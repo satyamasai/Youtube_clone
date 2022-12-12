@@ -48,6 +48,7 @@ border-radius: 12px;
     height: 30px;
     margin: auto;
     /* border: 1px solid greenyellow; */
+    display: none;
 }
 .voicelogo{
     margin-left: 15px;
@@ -263,6 +264,9 @@ i{
     #navbar{
         /* display: none; */
         width: 100%;
+    }
+    #mob_logo{
+        display: inline;
     }
     
 }
